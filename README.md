@@ -1,2 +1,2 @@
 # M.smegmatis
-in the following repository are presented the codes and data that was used to modelate and simulate a Tuberculosis affection on M. smegamtis based on the previuos works of Apiyo et al. (2022)
+The following repository contains the code and data used to model and simulate Mycobacterium smegmatis growth under normal conditions, based on the previous work by Apiyo et al. (2022).
