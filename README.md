@@ -1,1 +1,2 @@
 # M.smegmatis
+in the following repository are presented the codes and data that was used to modelate and simulate a Tuberculosis affection on M. smegamtis based on the previuos works of Apiyo et al. (2022)
